@@ -1,0 +1,186 @@
+[
+    {
+        "id":0,
+        "title":"White Dress",
+        "price":1500,
+        "img_url":"white-dress.jpg",
+        "categories":"White"
+    },
+    {
+        "id":1,
+        "title":"Red Dress",
+        "price":880,
+        "img_url":"red-dress.jpg",
+        "categories":"red"
+    },
+    {
+        "id":2,
+        "title":"Green Dress",
+        "price":600,
+        "img_url":"green-dress.jpg",
+        "categories":"green"
+    },
+    {
+        "id":3,
+        "title":"Yellow Dress",
+        "price":800,
+        "img_url":"yellow-dress.jpg",
+        "categories":"yellow"
+    },
+    {
+        "id":4,
+        "title":"Marron Dress",
+        "price":600,
+        "img_url":"marron.jpg",
+        "categories":"marron"
+    },
+    {
+        "id":5,
+        "title":"White Dress",
+        "price":1100,
+        "img_url":"white.jpg",
+        "categories":"white"
+    },
+    {
+        "id":6,
+        "title":"White Dress",
+        "price":1200,
+        "img_url":"cold.jpg",
+        "categories":"white"
+    },
+    {
+        "id":7,
+        "title":"Brown Dress",
+        "price":1200,
+        "img_url":"brown.jpg",
+        "categories":"brown"
+    },
+    {
+        "id":8,
+        "title":"Yellow Dress",
+        "price":1300,
+        "img_url":"floral.jpg",
+        "categories":"yellow"
+    },
+    {
+        "id":9,
+        "title":"Red Dress",
+        "price":1500,
+        "img_url":"lace.jpg",
+        "categories":"red"
+    },
+    {
+        "id":10,
+        "title":"Black Dress",
+        "price":1000,
+        "img_url":"mesh.jpg",
+        "categories":"black"
+    },
+    {
+        "id":11,
+        "title":"White Dress",
+        "price":1200,
+        "img_url":"slip.jpg",
+        "categories":"white"
+    },
+    {
+        "id":12,
+        "title":"White Dress",
+        "price":750,
+        "img_url":"milano.jpg",
+        "categories":"white"
+    },
+    {
+        "id":13,
+        "title":"Yellow Dress",
+        "price":1300,
+        "img_url":"off.jpg",
+        "categories":"yellow"
+    },
+    {
+        "id":14,
+        "title": "Black Dress",
+        "price":1100,
+        "img_url":"pleat.jpg",
+        "categories":"black"
+    },
+    {
+        "id":15,
+        "title":"Brown Dress",
+        "price":1500,
+        "img_url":"wrap.jpg",
+        "categories":"Dress"
+    },
+    {
+        "id":16,
+        "title":"Brown Dress",
+        "price":1160,
+        "img_url":"royal.jpg",
+        "categories":"brown"
+    },
+    {
+        "id":17,
+        "title":"Yellow Dress",
+        "price":1600,
+        "img_url":"sculpted.jpg",
+        "categories":"yellow"
+    },
+    {
+        "id":18,
+        "title":"Black Dress",
+        "price":780,
+        "img_url":"soft.jpg",
+        "categories": "black"
+    },
+    {
+        "id":19,
+        "title":"Pink Dress",
+        "price":1500,
+        "img_url":"soft2.jpg",
+        "categories":"pink"
+    },
+    {
+        "id":20,
+        "title":"Orange Dress",
+        "price":1200,
+        "img_url":"orange.jpg",
+        "categories":"orange"
+    },
+    {
+        "id":21,
+        "title":"Brown Dress",
+        "price":650,
+        "img_url":"midi.jpg",
+        "categories":"brown"
+    },
+    {
+        "id":22,
+        "title":"Black Dress",
+        "price":870,
+        "img_url":"kumi.jpg",
+        "categories":"black"
+    },
+    {
+        "id":23,
+        "title":"Pink Dress",
+        "price":900,
+        "img_url":"fuff.jpg",
+        "categories":"pink"
+    },
+    {
+        "id":24,
+        "title":"Blue Dress",
+        "price":1300,
+        "img_url":"gen.jpg",
+        "categories":"blue"
+    },
+    {
+        "id":25,
+        "title":"Blue Dress",
+        "price":1000,
+        "img_url":"print.jpg",
+        "categories":"blue"
+    }
+   
+
+]
